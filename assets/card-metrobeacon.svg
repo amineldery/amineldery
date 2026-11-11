@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="220" viewBox="0 0 440 220">
+  <defs>
+    <radialGradient id="g"><stop offset="0" stop-color="#34d399" stop-opacity="0.16"/><stop offset="1" stop-color="#34d399" stop-opacity="0"/></radialGradient>
+    <linearGradient id="edge" x1="0" x2="1"><stop offset="0" stop-color="#34d399" stop-opacity="0"/><stop offset="0.5" stop-color="#34d399"/><stop offset="1" stop-color="#3b82f6" stop-opacity="0"/></linearGradient>
+    <clipPath id="f"><rect width="440" height="220" rx="14"/></clipPath>
+  </defs>
+  <g clip-path="url(#f)">
+    <rect width="440" height="220" fill="#111113"/>
+    <circle cx="400" cy="10" r="150" fill="url(#g)"/>
+    <rect x="-200" y="0" width="200" height="2" fill="url(#edge)"><animate attributeName="x" values="-200;440" dur="4s" repeatCount="indefinite"/></rect>
+    <rect x="22" y="22" width="120.8" height="22" rx="11" fill="#34d399" fill-opacity="0.12"/>
+    <text x="82.4" y="37" text-anchor="middle" font-family="'JetBrains Mono', Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="11" letter-spacing="1" fill="#34d399">SOFTWARE · IOT</text>
+    <text x="418" y="38" text-anchor="end" font-family="'JetBrains Mono', Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="13" fill="#71717a">view repo ↗</text>
+    <text x="22" y="80" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#ffffff">MetroBeacon</text>
+    <text x="22" y="112" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="14" fill="#a3a3a3">Real-time OC Transpo arrivals on a mobile app,</text>
+    <text x="22" y="133" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="14" fill="#a3a3a3">LED map and Raspberry Pi Sense HAT, synced</text>
+    <text x="22" y="154" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="14" fill="#a3a3a3">through Firebase from live GTFS-RT feeds.</text>
+    <circle cx="27" cy="193" r="5" fill="#3178c6"/><text x="37" y="197.5" font-family="'JetBrains Mono', Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="12.5" fill="#d4d4d4">TypeScript</text>
+    <circle cx="136.0" cy="193" r="5" fill="#3572A5"/><text x="146.0" y="197.5" font-family="'JetBrains Mono', Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="12.5" fill="#d4d4d4">Python</text>
+    <circle cx="214.6" cy="193" r="5" fill="#ffca28"/><text x="224.6" y="197.5" font-family="'JetBrains Mono', Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="12.5" fill="#d4d4d4">Firebase</text>
+    <circle cx="308.4" cy="193" r="5" fill="#c51a4a"/><text x="318.4" y="197.5" font-family="'JetBrains Mono', Consolas, Menlo, 'DejaVu Sans Mono', monospace" font-size="12.5" fill="#d4d4d4">Raspberry Pi</text>
+      </g>
+  <rect x="0.5" y="0.5" width="439" height="219" rx="14" fill="none" stroke="#232326"/>
+</svg>

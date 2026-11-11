@@ -1,18 +1,62 @@
-# 💫 About Me:
-Computer Systems Engineering student with experience in embedded systems, firmware development, Linux, and foundational AWS cloud concepts. Seeking co-op and internship opportunities in embedded software, firmware, or cloud-connected systems engineering.<br><br>
+<a href="https://amineldery.com">
+  <img src="./assets/header.svg" width="100%" alt="Amin Eldery: Computer Systems Engineering student, FPGA and embedded systems, DevOps and cloud" />
+</a>
 
+<p align="center">
+  <a href="https://amineldery.com"><img src="https://img.shields.io/badge/Portfolio-amineldery.com-34d399?style=for-the-badge&logo=astro&logoColor=white&labelColor=111113" alt="Portfolio" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/amin-eldery-970a19202"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111113" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:amineldery@cmail.carleton.ca"><img src="https://img.shields.io/badge/Email-Say_hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111113" alt="Email" /></a>&nbsp;
+  <a href="https://amineldery.com/Amin_Eldery_Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-a3a3a3?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=111113" alt="Resume" /></a>
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amin_eldery) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amineldery) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amineldery1@gmail.com) 
+## `> cat about.md`
 
-# 💻 Tech Stack:
-![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=amineldery&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=amineldery&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amineldery&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I'm a fourth-year **Computer Systems Engineering** student at **Carleton University** in Ottawa. I like working close to the hardware: Verilog on FPGAs, embedded C on microcontrollers, and C++ for robots that have to react in real time. On the other side of the stack, I build Python and C++ tools and ship them in Docker containers on AWS.
 
----
-[![](https://visitcount.itsvg.in/api?id=amineldery&icon=0&color=0)](https://visitcount.itsvg.in)
+```yaml
+amin:
+  studying:  B.Eng. Computer Systems Engineering @ Carleton University  # expected 2028
+  latest:    DevOps Engineering Intern (Co-op) @ Terra Motion Canada
+  certified: AWS Certified Cloud Practitioner (CLF-C02)
+  building:  autonomous snowplow robot (SYSC 4805, team of 4)
+  interests: [fpga, embedded systems, firmware, devops, cloud]
+  looking_for: co-op & internship roles
+```
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## `> ls ./featured`
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://github.com/amineldery/fpga-packet-processing-engine"><img src="./assets/card-fpga.svg" width="100%" alt="FPGA Packet Processing Engine" /></a></td>
+    <td width="50%"><a href="https://github.com/amineldery/MetroBeacon"><img src="./assets/card-metrobeacon.svg" width="100%" alt="MetroBeacon" /></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://github.com/amineldery/PiCam_and_Computer_Vision"><img src="./assets/card-picam.svg" width="100%" alt="PiCam and Computer Vision" /></a></td>
+    <td width="50%"><a href="https://amineldery.com/#projects"><img src="./assets/card-snowplow.svg" width="100%" alt="Autonomous Snowplow Robot" /></a></td>
+  </tr>
+</table>
+
+## `> cat stack.txt`
+
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=py,cpp,c,java,matlab,ts" alt="Python, C++, C, Java, MATLAB, TypeScript" /> &nbsp;<img src="https://img.shields.io/badge/Verilog-111113?style=for-the-badge&logoColor=white" height="40" alt="Verilog" /></td>
+  </tr>
+  <tr>
+    <td><b>Hardware</b></td>
+    <td><img src="https://skillicons.dev/icons?i=arduino,raspberrypi" alt="Arduino, Raspberry Pi" /> &nbsp;<img src="https://img.shields.io/badge/Vivado-111113?style=for-the-badge&logo=amd&logoColor=ED1C24" height="40" alt="Vivado" /> <img src="https://img.shields.io/badge/ARM_Cortex--M4-111113?style=for-the-badge&logo=arm&logoColor=0091BD" height="40" alt="ARM Cortex-M4" /></td>
+  </tr>
+  <tr>
+    <td><b>Cloud & DevOps</b></td>
+    <td><img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,bash,git,gitlab" alt="AWS, Docker, Kubernetes, Linux, Bash, Git, GitLab" /></td>
+  </tr>
+  <tr>
+    <td><b>Frameworks & Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=pytorch,react,firebase,astro,tailwind,vscode" alt="PyTorch, React, Firebase, Astro, Tailwind, VS Code" /></td>
+  </tr>
+</table>
+
+<br />
+
+<a href="https://amineldery.com"><img src="./assets/footer.svg" width="100%" alt="Thanks for stopping by" /></a>
